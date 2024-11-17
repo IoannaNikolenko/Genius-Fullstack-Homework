@@ -272,6 +272,9 @@ body {
 
 /*Links*/
 .link {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.2;
   color: var(--color-primary-dark);
   text-decoration: none;
 }
